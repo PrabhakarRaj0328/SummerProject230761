@@ -1,1 +1,1 @@
-# SummerProject230761
+To see the task you need to go to the index.html and open it on a live server. This is the home page and where the e-mail list is present.If you tap on the "New-email" red button you will see a new page where you can compose a mail with all the required fields. If you tap on any of the mail messages, the mail will open with all the information and attachments. If tapping doesnt work on the first time please tap one more time preferrably on the text of that particular mail. I have done all the 3 frontend objectives.
